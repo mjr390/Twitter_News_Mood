@@ -1,7 +1,7 @@
 
 # News Mood
 
-The goal of this project was to find out the overall sentiment of tweets sent out by major news organizations twitter accounts.  The data set was put together by using Tweepy to gather the past 100 tweets from each organization, VADER was used for the sentiment analysis.  The data is then plotted into a scatter plot containing all of the gathered tweets, and a bar plot containing the average score for each news organization.  Included in this repo is the README containing a short analysis and the code used for the project, a csv containing all of the gethered data, images of plots are included as png files and in the README.  The code can be run again to gather a new set of data by running each of the cells in the ipynb file.
+The goal of this project was to find out the overall sentiment of tweets sent out by major news organizations twitter accounts.  The data set was put together by using Tweepy to gather the past 100 tweets from each organization, VADER was used for the sentiment analysis.  The data is then plotted into a scatter plot containing all of the gathered tweets, and a bar plot containing the average score for each news organization.  Included in this repo is the README containing a short analysis and the code used for the project, a csv containing all of the gathered data, images of plots are included as png files and in the README.  The code can be run again to gather a new set of data by running each of the cells in the ipynb file.
 
 What the code does:
 
