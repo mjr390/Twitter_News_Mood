@@ -15,7 +15,9 @@ What the code does:
 
 - Create a scatter plot comparing the tweets overall sentiment and how many tweets ago for each tweet
 
-- Create a bar plot comparing the average overall sentiment for each twitter account 
+- Create a bar plot comparing the average overall sentiment for each twitter account
+
+Note: This project was originally part of a repo with multiple projects, it has been moved here to viewed on its own. Original location can be found here: https://github.com/mjr390/Pandas_In_Jupyter/tree/master/News_Mood
 
 # Analysis
 1. None of the media outlets searched had a positive average compound sentiment over their past 100 tweets at the time the data was obtained.
