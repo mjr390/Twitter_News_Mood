@@ -5,11 +5,11 @@ The goal of this project was to find out the overall sentiment of tweets sent ou
 
 What the code does:
 
-- Create a hard coding list of all the twitter handels to analyse
+- Create a hard coding list of all the twitter handles to analyze
 
 - Loop through the list and loop through the first five pages to get the 100 most recent tweets
 
-- Create a dictionary for each tweet containing the different VADER scores, how many tweets ago the tweet was tweeted, the account, and the text.  This is all appened to a list to contain all of the tweets information
+- Create a dictionary for each tweet containing the different VADER scores, how many tweets ago the tweet was tweeted, the account, and the text.  This is all appended to a list to contain all of the tweets information
 
 - Converts the data to a data frame and exports it to a csv
 
