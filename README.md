@@ -5,7 +5,7 @@ The goal of this project was to find out the overall sentiment of tweets sent ou
 
 What the code does:
 
-- Create a hard coding list of all the twitter handles to analyze
+- Create a hard coded list of all the twitter handles to analyze
 
 - Loop through the list and loop through the first five pages to get the 100 most recent tweets
 
